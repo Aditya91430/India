@@ -1,0 +1,9 @@
+.sticky-header {
+    position: sticky;
+    top: 21px;
+}
+
+
+body{
+    text-align: left;
+}
